@@ -1,8 +1,11 @@
 <div align="center">
 
+ 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4A90D9&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Priscilla+Addo+%F0%9F%8C%8D;Atmospheric+%26+Climate+Researcher;Tropical+Meteorology+%7C+Weather+%26+Climate+Modeling;Atmospheric+Dynamics+%7C+Remote+Sensing+%7C+AI%2FML" alt="Typing SVG" />
 
+
 <br/>
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Priscilla%20Addo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priscilla-addo-5b5bb1243)
 [![Gmail](https://img.shields.io/badge/Gmail-addopriscilla699%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:addopriscilla699@gmail.com)

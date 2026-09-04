@@ -11,9 +11,12 @@
 ### Severe Weather • Climate Modeling • Atmospheric Dynamics • AI/ML
 
 <p align="center">
-  <a href="https://github.com/addo-priscilla-research">
-    <img src="https://img.shields.io/badge/GitHub-addo--priscilla--research-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Priscilla%20Addo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priscilla-addo-5b5bb1243)
+[![Gmail](https://img.shields.io/badge/Gmail-addopriscilla699%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:addopriscilla699@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-addo--priscilla--research-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/addo-priscilla-research)
+
+</div>
+  
   <img src="https://komarev.com/ghpvc/?username=addo-priscilla-research&label=PROFILE%20VIEWS&color=1565C0&style=for-the-badge">
 </p>
 

@@ -50,27 +50,53 @@ I am particularly interested in understanding how **tropical atmospheric disturb
 
 ---
 
-# 🌦️ Research Focus
+## 🧪 Selected Projects
 
-### 🌊 Tropical Atmospheric Dynamics
+### 🌧️ [African Easterly Waves & Extreme Precipitation — West Africa](https://github.com/addo-priscilla-research/african-easterly-waves-extreme-precipitation)
 
-Investigating the evolution, propagation, and interaction of tropical atmospheric disturbances and their influence on convection and extreme precipitation.
+Investigation of the relationship between **African Easterly Waves, atmospheric dynamics, and extreme precipitation** over West Africa using reanalysis and satellite precipitation datasets.
 
-### 🌧️ Extreme Rainfall & Severe Weather
+**Research Focus:**  
+`Tropical Meteorology` `Atmospheric Dynamics` `Extreme Precipitation` `West African Climate`
 
-Understanding the atmospheric precursors and physical mechanisms associated with extreme rainfall, flooding, convective storms, and other high-impact weather events.
+**Tools:**  
+`Python` `ERA5` `GPM/IMERG` `xarray` `SciPy` `Matplotlib` `Cartopy`
 
-### 🌀 Tropical Cyclones
+---
 
-Examining the dynamical and thermodynamic controls governing tropical cyclone genesis, intensification, vortex organization, and precipitation structure.
+### 🌡️ [Urban Heat Island Dynamics in Ghana](https://github.com/addo-priscilla-research/urban-heat-island-ghana)
 
-### 🌍 Climate Variability & Change
+Satellite-based assessment of **land-surface temperature, land-use/land-cover change, and urban climate variability** to investigate urban heat island dynamics in Ghanaian cities.
 
-Investigating how climate variability and long-term climate change influence atmospheric circulation, precipitation patterns, and weather extremes.
+**Research Focus:**  
+`Urban Climate` `Land-Surface Temperature` `Remote Sensing` `LULC Change`
 
-### 🤖 AI & Machine Learning in Meteorology
+**Tools:**  
+`Google Earth Engine` `Landsat` `MODIS` `GIS` `Python`
 
-Applying machine learning and explainable AI techniques to improve prediction and understanding of extreme-weather events.
+---
+
+### 💧 [Penman–Monteith Evapotranspiration Modeling](https://github.com/addo-priscilla-research/penman-monteith-evapotranspiration)
+
+Assessment of how **measured and estimated net radiation and soil heat flux** influence Penman–Monteith evapotranspiration estimates.
+
+**Research Focus:**  
+`Surface Energy Balance` `Evapotranspiration` `Land–Atmosphere Interactions` `Hydrometeorology`
+
+**Tools:**  
+`Python` `Meteorological Data` `Statistical Analysis`
+
+---
+
+### 🌫️ [NO₂ Trends & Meteorological Controls — Kumasi, Ghana](https://github.com/addo-priscilla-research/kumasi-no2-meteorological-analysis)
+
+Analysis of satellite-derived **Sentinel-5P/TROPOMI NO₂ observations** and meteorological conditions to investigate temporal trends, seasonal variability, and meteorological controls on atmospheric pollution.
+
+**Research Focus:**  
+`Air Quality` `Atmospheric Pollution` `Remote Sensing` `Meteorological Variability`
+
+**Tools:**  
+`Python` `Google Earth Engine` `Sentinel-5P/TROPOMI` `NASA POWER` `Pandas` `Matplotlib`
 
 ---
 

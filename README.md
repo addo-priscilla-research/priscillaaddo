@@ -306,32 +306,37 @@ Applying machine learning and explainable AI techniques to improve prediction an
 
 ---
 
-# 📐 Atmospheric Diagnostics
+📊 GitHub Stats
 
-My research involves the analysis and interpretation of atmospheric dynamical and thermodynamic processes using:
+<div align="center">
 
-```text
-850-hPa Relative Vorticity
-Zonal & Meridional Wind
-Moisture Transport
-Moisture-Flux Convergence
-Vertical Velocity
-Precipitable Water
-CAPE / CIN
-Mid-Level Relative Humidity
-Vertical Wind Shear
-Sea-Surface Temperature
-Potential Vorticity
-Moisture Budgets
-Time-Height Cross Sections
-Radial Composites
-Trajectory Analysis
-Wave Tracking
-Lagged Composites
 
-> On Sep 4, 2026, at 02:21, Addo Priscilla <addopriscilla699@gmail.com> wrote:
->
-> ﻿<div align="center">
+
+
+</div>
+
+🐍 Contribution Snake
+
+<div align="center">
+
+
+
+
+</div>
+
+📫 Connect With Me
+
+<div align="center">
+
+📧 Email: addopriscilla699@gmail.com
+
+🔗 LinkedIn: Priscilla Addo
+
+💻 GitHub: addo-priscilla-research
+
+</div>
+
+<div align="center">
 
 
 ### 🌍 *Exploring weather, climate, and environmental change through observations, models, and data.*

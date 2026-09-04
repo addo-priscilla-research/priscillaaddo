@@ -1,16 +1,13 @@
-
 <div align="center">
 
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4A90D9&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Addo+Priscilla%F0%9F%8C%8D;Atmospheric+Scientist+%7C+Climate+Researcher;Bridging+Science+and+Societal+Resilience" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4A90D9&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Priscilla+Addo+%F0%9F%8C%8D;Atmospheric+%26+Climate+Researcher;Weather+%26+Climate+Modeling+%7C+Remote+Sensing;Understanding+Atmospheric+Processes+%26+Climate+Extremes" alt="Typing SVG" />
 
 <br/>
- <p align="center">
-  <a href="https://github.com/addo-priscilla-research">
-    <img src="https://img.shields.io/badge/GitHub-addo--priscilla--research-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=addo-priscilla-research&label=PROFILE%20VIEWS&color=1565C0&style=for-the-badge">
-</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Priscilla%20Addo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priscilla-addo-5b5bb1243)
+[![Gmail](https://img.shields.io/badge/Gmail-addopriscilla699%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:addopriscilla699@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-addo--priscilla--research-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/addo-priscilla-research)
+
 
 </div>
 

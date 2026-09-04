@@ -13,17 +13,6 @@
 
 </div>
 
-
-
-
-### 🌦️ Research Focus
-
-**Tropical Meteorology • Tropical Cyclones • Severe Weather • Climate Modeling • Atmospheric Dynamics
-• Extreme Precipitation • Remote Sensing • Environmental Data Science • AI/ML**
-
----
-
-</div>
   
   <img src="https://komarev.com/ghpvc/?username=addo-priscilla-research&label=PROFILE%20VIEWS&color=1565C0&style=for-the-badge">
 </p>

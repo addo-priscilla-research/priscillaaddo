@@ -74,67 +74,6 @@ Applying machine learning and explainable AI techniques to improve prediction an
 
 ---
 
-# 🧪 Selected Research Experience
-
-## 🌊 Dynamical Evolution of Tropical Atmospheric Waves and Their Role in Extreme Rainfall Over West Africa
-
-**Research Focus:** African Easterly Waves • Extreme Rainfall • West African Monsoon • Atmospheric Dynamics
-
-- Investigated the evolution of **African Easterly Waves (AEWs)** preceding extreme rainfall events using high-resolution numerical model output, ERA5 reanalysis, and satellite-derived precipitation observations.
-- Diagnosed **850-hPa vorticity, zonal wind, moisture transport, vertical velocity, precipitable water, CAPE, and convective instability** to characterize atmospheric conditions preceding intense convection.
-- Applied **lagged composites and atmospheric-wave tracking techniques** to resolve the propagation of disturbances from the tropical Atlantic into the West African monsoon region.
-- Compared modeled and observed precipitation structures during high-impact rainfall events.
-- Investigated discrepancies in the **timing, location, and intensity of convection** associated with rapidly evolving wave disturbances.
-- Examined the coupling between **tropical-wave dynamics, moisture convergence, and convective instability** as precursors to extreme rainfall and flood-producing events.
-
----
-
-## 🌧️ Predicting Flood-Producing Extreme Rainfall Through High-Resolution Numerical Modeling, Remote Sensing & Machine Learning
-
-**Research Focus:** WRF • GPM IMERG • ERA5 • SMAP • Machine Learning • Extreme Rainfall
-
-- Constructed an event-based dataset of flood-producing rainfall by integrating **1–3 km convection-permitting WRF precipitation forecasts**, GPM IMERG satellite rainfall, ERA5 atmospheric fields, SMAP soil moisture, and high-resolution terrain and drainage data.
-- Derived atmospheric and land-surface predictors including:
-  - Rainfall intensity and duration
-  - Antecedent rainfall accumulation
-  - Precipitable water
-  - CAPE and CIN
-  - 850-hPa moisture-flux convergence
-  - Vertical velocity
-  - Soil moisture
-  - Topographic slope
-  - Drainage proximity
-  - Impervious-surface exposure
-- Evaluated WRF precipitation performance against GPM observations using **bias, RMSE, MAE, correlation coefficient, probability of detection, false-alarm ratio, and equitable threat score**.
-- Implemented **Random Forest and XGBoost** models to investigate nonlinear relationships between atmospheric forcing, land-surface conditions, rainfall characteristics, and flood-producing potential.
-- Applied **temporal cross-validation and SHAP feature attribution** to identify the most influential predictors of high-impact precipitation.
-- Investigated systematic errors in the timing and spatial distribution of extreme rainfall.
-
----
-
-## 🌀 Tropical Cyclone Genesis & Rapid Intensification
-
-**Research Focus:** Tropical Cyclones • WRF • Atmospheric Dynamics • Thermodynamics
-
-- Analyzed **3–5 km convection-permitting WRF simulations** alongside ERA5, GPM IMERG, NOAA sea-surface temperature data, and IBTrACS observations.
-- Diagnosed:
-  - 850-hPa relative vorticity
-  - 10-m wind convergence
-  - 500-hPa vertical velocity
-  - Precipitable water
-  - CAPE
-  - Mid-level relative humidity
-  - Vertical wind shear
-  - Sea-surface temperature
-  - Ocean-heat-content proxies
-- Applied **potential-vorticity diagnostics, radial composites, time-height cross sections, trajectory analysis, and moisture-budget calculations**.
-- Investigated the transition from disorganized tropical disturbances into vertically coherent cyclonic vortices.
-- Evaluated WRF simulations against observations using **vortex position, minimum sea-level pressure, maximum 10-m wind, precipitation structure, and convective organization**.
-- Investigated model sensitivity to **convective development and environmental vertical shear**.
-- Developed a multivariate framework linking **low-level vorticity, moisture, thermodynamic instability, vertical shear, and convective organization** to tropical cyclone development and intensification.
-
----
-
 # 💻 Programming Languages
 
 <p align="left">
@@ -306,27 +245,99 @@ Applying machine learning and explainable AI techniques to improve prediction an
 
 ---
 
-📊 GitHub Stats
+
+## 💼 Professional & Research Experience
+
+### 👩🏾‍🏫 Teaching Assistant — Department of Petroleum Engineering, KNUST
+
+**Nov. 2025 – Present**
+
+* Facilitate tutorials, laboratory sessions, practical exercises, and field activities for undergraduate students.
+* Support teaching in **Python, Energy & Climate, Thermodynamics, and Numerical Methods**.
+* Guide students in numerical problem-solving, scientific computing, Python-based data analysis, and quantitative interpretation.
+* Assist with assessments, laboratory reports, examinations, instructional materials, and student consultations.
+
+---
+
+### 🔬 Research Assistant — Net-Zero Emission Lab, KNUST
+
+**Nov. 2025 – Present**
+
+* Process and quality-control meteorological, environmental, and atmospheric datasets using Python and statistical methods.
+* Analyze meteorological and remote-sensing data to investigate atmospheric conditions, land-surface characteristics, environmental variability, and climate processes.
+* Apply **GIS, Google Earth Engine, and satellite observations** to investigate spatial and temporal environmental change.
+* Develop reproducible Python workflows for data processing, statistical analysis, visualization, and research interpretation.
+* Prepare technical reports, scientific visualizations, research summaries, and presentations.
+
+---
+
+### 🌦️ Intern — Ghana Meteorological Agency
+
+**Sept. 2023 – Dec. 2023**
+
+* Processed and analyzed meteorological and environmental datasets to investigate temporal variability, trends, and extreme conditions.
+* Applied Python, GIS, remote sensing, and statistical methods to meteorological and environmental analysis.
+* Developed data-processing and visualization workflows for research and technical reporting.
+
+---
+
+## 👥 Leadership & Outreach
+
+* **Vice President**, PELCI Family, KNUST — Aug. 2025–Present
+* **Organizing Secretary**, PELCI Family, KNUST — Aug. 2023–Aug. 2025
+* **Deputy Academic Head**, Meteorology and Climate Science Students Association — 2024
+* **COVID-19 Ambassador** — 2021
+
+---
+
+## 🎤 Conferences, Presentations & Workshops
+
+* **Poster Presentation**, Department of Meteorology and Climate Science, KNUST — Sept. 2025
+  Presented undergraduate research on measured vs. estimated net radiation, soil heat flux, and Penman–Monteith evapotranspiration.
+
+* **West African School on Air Quality and Pollution Prevention**, KNUST — Nov. 2025
+  Training in air-quality data analysis using Python and R and participation in air-quality outreach activities in Kumasi.
+
+* **KNUST Research Week & Scientific Conference** — Nov. 2025
+
+
+---
+
+## 📚 Currently Developing Skills
+
+* Advanced WRF modeling
+* High-resolution numerical weather prediction
+* Satellite remote sensing
+* Atmospheric data analysis
+* Climate-data analysis
+* Machine learning for environmental prediction
+* Reproducible scientific computing
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-
-
+![Priscilla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=addo-priscilla-research\&show_icons=true\&hide_border=true)
 
 </div>
 
-🐍 Contribution Snake
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
-
-
+![GitHub Contribution Snake](https://raw.githubusercontent.com/addo-priscilla-research/addo-priscilla-research-/output/github-contribution-grid-snake.svg)
 
 </div>
+
+---
+
+
 
 📫 Connect With Me
-
-<div align="center">
 
 📧 Email: addopriscilla699@gmail.com
 

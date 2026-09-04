@@ -52,7 +52,18 @@ I am particularly interested in understanding how **tropical atmospheric disturb
 
 ## 🧪 Selected Projects
 
-### 🌧️ [African Easterly Waves & Extreme Precipitation — West Africa]
+### 🌀 Tropical Cyclone Genesis & Rapid Intensification — Tropical Atlantic
+
+Investigation of the **dynamical and thermodynamic controls of tropical-cyclone genesis and rapid intensification** using high-resolution WRF simulations, reanalysis, satellite observations, and storm-track data.
+
+**Research Focus:**
+`Tropical Cyclones` `Genesis & Rapid Intensification` `Atmospheric Dynamics` `Tropical Meteorology`
+
+**Tools:**
+`WRF` `ERA5` `GPM/IMERG` `NOAA SST` `IBTrACS` `Python` `NCL` `NetCDF`
+
+
+### 🌧️ African Easterly Waves & Extreme Precipitation — West Africa
 
 Investigation of the relationship between **African Easterly Waves, atmospheric dynamics, and extreme precipitation** over West Africa using reanalysis and satellite precipitation datasets.
 
@@ -64,7 +75,7 @@ Investigation of the relationship between **African Easterly Waves, atmospheric 
 
 ---
 
-### 🌡️ [Urban Heat Island Dynamics in Ghana]
+### 🌡️ Urban Heat Island Dynamics in Ghana
 
 Satellite-based assessment of **land-surface temperature, land-use/land-cover change, and urban climate variability** to investigate urban heat island dynamics in Ghanaian cities.
 
@@ -76,7 +87,7 @@ Satellite-based assessment of **land-surface temperature, land-use/land-cover ch
 
 ---
 
-### 💧 [Penman–Monteith Evapotranspiration Modeling]
+### 💧 Penman–Monteith Evapotranspiration Modeling
 
 Assessment of how **measured and estimated net radiation and soil heat flux** influence Penman–Monteith evapotranspiration estimates.
 
@@ -88,7 +99,7 @@ Assessment of how **measured and estimated net radiation and soil heat flux** in
 
 ---
 
-### 🌫️ [NO₂ Trends & Meteorological Controls — Kumasi, Ghana]
+### 🌫️ NO₂ Trends & Meteorological Controls — Kumasi, Ghana
 
 Analysis of satellite-derived **Sentinel-5P/TROPOMI NO₂ observations** and meteorological conditions to investigate temporal trends, seasonal variability, and meteorological controls on atmospheric pollution.
 

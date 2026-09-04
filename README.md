@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # 🌍 Priscilla Addo
@@ -15,6 +16,7 @@
 </div>
 
 ---
+
 
 # 👩🏾‍🔬 About Me
 

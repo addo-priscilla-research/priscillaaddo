@@ -52,7 +52,7 @@ I am particularly interested in understanding how **tropical atmospheric disturb
 
 ## 🧪 Selected Projects
 
-### 🌧️ [African Easterly Waves & Extreme Precipitation — West Africa](https://github.com/addo-priscilla-research/african-easterly-waves-extreme-precipitation)
+### 🌧️ [African Easterly Waves & Extreme Precipitation — West Africa]
 
 Investigation of the relationship between **African Easterly Waves, atmospheric dynamics, and extreme precipitation** over West Africa using reanalysis and satellite precipitation datasets.
 
@@ -64,7 +64,7 @@ Investigation of the relationship between **African Easterly Waves, atmospheric 
 
 ---
 
-### 🌡️ [Urban Heat Island Dynamics in Ghana](https://github.com/addo-priscilla-research/urban-heat-island-ghana)
+### 🌡️ [Urban Heat Island Dynamics in Ghana]
 
 Satellite-based assessment of **land-surface temperature, land-use/land-cover change, and urban climate variability** to investigate urban heat island dynamics in Ghanaian cities.
 
@@ -76,7 +76,7 @@ Satellite-based assessment of **land-surface temperature, land-use/land-cover ch
 
 ---
 
-### 💧 [Penman–Monteith Evapotranspiration Modeling](https://github.com/addo-priscilla-research/penman-monteith-evapotranspiration)
+### 💧 [Penman–Monteith Evapotranspiration Modeling]
 
 Assessment of how **measured and estimated net radiation and soil heat flux** influence Penman–Monteith evapotranspiration estimates.
 
@@ -88,7 +88,7 @@ Assessment of how **measured and estimated net radiation and soil heat flux** in
 
 ---
 
-### 🌫️ [NO₂ Trends & Meteorological Controls — Kumasi, Ghana](https://github.com/addo-priscilla-research/kumasi-no2-meteorological-analysis)
+### 🌫️ [NO₂ Trends & Meteorological Controls — Kumasi, Ghana]
 
 Analysis of satellite-derived **Sentinel-5P/TROPOMI NO₂ observations** and meteorological conditions to investigate temporal trends, seasonal variability, and meteorological controls on atmospheric pollution.
 

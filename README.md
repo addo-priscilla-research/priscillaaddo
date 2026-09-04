@@ -14,9 +14,12 @@
 </div>
 
 
+
+
 ### 🌦️ Research Focus
 
-**Tropical Meteorology • Tropical Cyclones • Severe Weather • Climate Modeling • Atmospheric Dynamics • Extreme Precipitation • Remote Sensing • Environmental Data Science • AI/ML**
+**Tropical Meteorology • Tropical Cyclones • Severe Weather • Climate Modeling • Atmospheric Dynamics
+• Extreme Precipitation • Remote Sensing • Environmental Data Science • AI/ML**
 
 ---
 

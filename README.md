@@ -1,15 +1,13 @@
 
 <div align="center">
 
-<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4A90D9&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Addo+Priscilla%F0%9F%8C%8D;Atmospheric+Scientist+%7C+Climate+Researcher;Bridging+Science+and+Societal+Resilience" alt="Typing SVG" />
 
 <br/>
 
-# 🌍 Priscilla Addo
 
-### Atmospheric Science & Climate Researcher
+### Atmospheric Science & Climate Researcher • Tropical Cyclone
 ### Severe Weather • Climate Modeling • Atmospheric Dynamics • AI/ML
 
 <p align="center">

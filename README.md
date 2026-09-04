@@ -13,10 +13,12 @@
 
 </div>
 
----
 
-### Atmospheric Science & Climate Researcher • Tropical Cyclone
-### Severe Weather • Climate Modeling • Atmospheric Dynamics • AI/ML
+### 🌦️ Research Focus
+
+**Tropical Meteorology • Tropical Cyclones • Severe Weather • Climate Modeling • Atmospheric Dynamics • Extreme Precipitation • Remote Sensing • Environmental Data Science • AI/ML**
+
+---
 
 </div>
   
